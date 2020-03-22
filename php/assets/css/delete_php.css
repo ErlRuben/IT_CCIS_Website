@@ -1,0 +1,172 @@
+body {
+  background: url(https://www.sunstar.com.ph/uploads/images/2018/07/08/67093.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+
+}
+
+
+div {
+    
+    margin-left: 580px;
+    margin-right: 600px;
+
+}
+
+form{
+    
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h2.hh{
+  margin-top: 30px;
+
+  margin-left: 180px;
+
+}
+ul.e {
+  background-color:   rgb(189, 109, 109);
+  background-size: cover;
+  border: 9px solid rgb(92, 13, 13);
+
+  height: 90px;
+  width: 800px;
+  margin-left: 520px;
+      margin-top: 100px;
+  margin-right: 1000px;
+ 
+}
+ul.ee {
+  background-color:   rgb(189, 109, 109);
+  background-size: cover;
+  border: 9px solid rgb(92, 13, 13);
+
+  height: 430px;
+  width: 800px;
+      margin-top: 50px;
+      margin-left: 520px;
+
+ 
+}
+.btn-group .button {
+  background-image: url('buttons.gif');
+  display: inline-block;
+  padding: 7px 100.28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: black;
+  background-color: rgb(189, 109, 109);
+
+  border-radius: 0px;
+  box-shadow: 0 9px rgb(136, 46, 46);
+  margin: 10px;
+  border: 5px solid rgb(92, 13, 13);
+
+  float: right;
+  margin-right: 450px;
+  margin-top: 420px;
+}
+
+.btn-group .button span {
+
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.05s;
+
+}
+
+.btn-group .button span:after {
+  content: url('');
+  
+  color: #474747;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 20px;
+
+  margin-right: 1000px;
+  transition: 3s;
+}
+
+.btn-group .button:hover span {
+  padding-top: 20px;
+}
+
+.btn-group .button:hover span:after {
+  opacity: 1;
+  top: 0;
+}
+.btn-group .button:hover {
+    background-color: rgb(64, 74, 133)
+}
+.btn-group .button:active {
+  background-color: gray;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btnn-group .button {
+  background-image: url('buttons.gif');
+  display: inline-block;
+  padding: 7px 100.28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: black;
+  background-color: rgb(189, 109, 109);
+
+  border-radius: 0px;
+  box-shadow: 0 9px rgb(136, 46, 46);
+  margin: 10px;
+  border: 5px solid rgb(92, 13, 13);
+
+  float: right;
+  margin-right: 360px;
+  margin-top: 35px;
+}
+
+.btnn-group .button span {
+
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.05s;
+
+}
+
+.btnn-group .button span:after {
+  content: url('');
+  
+  color: #474747;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 20px;
+
+  margin-right: 1000px;
+  transition: 3s;
+}
+
+.btnn-group .button:hover span {
+  padding-top: 20px;
+}
+
+.btnn-group .button:hover span:after {
+  opacity: 1;
+  top: 0;
+}
+.btnn-group .button:hover {
+    background-color: rgb(64, 74, 133)
+}
+.btnn-group .button:active {
+  background-color: gray;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
